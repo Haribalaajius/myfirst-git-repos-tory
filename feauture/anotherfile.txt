@@ -5,3 +5,5 @@ this vfile is modified.
 this line added in feature2 branch
 
 another modification in the feauture2 branch.
+
+edit in the feature 2 branch
