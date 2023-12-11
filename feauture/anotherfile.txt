@@ -1,3 +1,5 @@
-Just an another file in branch.
+this line is modified in feature2 branch.
 
 this vfile is modified.
+
+this line added in feature2 branch
